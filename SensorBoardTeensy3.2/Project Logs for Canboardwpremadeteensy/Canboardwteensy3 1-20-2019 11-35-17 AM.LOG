@@ -1,0 +1,272 @@
+Added Component: Designator=D0(LED-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=IC 0(DIP254P762X432-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCP2551-I/P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-8 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP2551-I/P/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J0(SlimStack_503548-0622)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(SlimStack_503548-0622)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(SlimStack_503548-0622)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3(SlimStack_503548-0622)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J4(SlimStack_503548-0622)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J5(SlimStack_503548-0622)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J6(SlimStack_503548-0622)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J7(TE USB-C 2129691-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://media.digikey.com/pdf/Data%20Sheets/Tyco%20Electonics%20AMP%20PDFs/2129691_Dwg.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.digikey.ca/product-detail/en/2129691-1/A122008TR-ND/5401336"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Positions"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "7863"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "2129691-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "2.2088"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "USB 3.1, Superspeed+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A122008TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "USB - C"; VariantName = "[No Variations]"
+Added Component: Designator=J8(TE USB-C 2129691-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://media.digikey.com/pdf/Data%20Sheets/Tyco%20Electonics%20AMP%20PDFs/2129691_Dwg.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.digikey.ca/product-detail/en/2129691-1/A122008TR-ND/5401336"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Positions"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "7863"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "2129691-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "2.2088"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "USB 3.1, Superspeed+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A122008TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "USB - C"; VariantName = "[No Variations]"
+Added Component: Designator=J9(TE 282834-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Colour"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282834&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.digikey.ca/product-detail/en/282834-4/A98335-ND/1153265"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal with Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "9291"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "282834-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions Per Level"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "3.34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A98335-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40C ~ 105C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=J10(TE 282834-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Colour"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282834&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.digikey.ca/product-detail/en/282834-2/A98333-ND/1150135"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal with Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "9289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "282834-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions Per Level"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A98333-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40C ~ 105C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=J11(HDR1X14)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J12(HDR1X14)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R0(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R1(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD0_1 Pin=D0-1
+Added Pin To Net: NetName=GND Pin=D0-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetIC 0_1 Pin=IC 0-1
+Added Pin To Net: NetName=+5 Pin=IC 0-3
+Added Pin To Net: NetName=NetIC 0_4 Pin=IC 0-4
+Added Pin To Net: NetName=NetIC 0_6 Pin=IC 0-6
+Added Pin To Net: NetName=NetIC 0_7 Pin=IC 0-7
+Added Pin To Net: NetName=NetIC 0_8 Pin=IC 0-8
+Added Pin To Net: NetName=+5 Pin=J0-1
+Added Pin To Net: NetName=GND Pin=J0-2
+Added Pin To Net: NetName=+5 Pin=J0-3
+Added Pin To Net: NetName=GND Pin=J0-4
+Added Pin To Net: NetName=PWM 2 Pin=J0-5
+Added Pin To Net: NetName=RX1 Pin=J0-6
+Added Pin To Net: NetName=TX1 Pin=J0-7
+Added Pin To Net: NetName=+5 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=+5 Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=B1 Pin=J1-5
+Added Pin To Net: NetName=A1 Pin=J1-6
+Added Pin To Net: NetName=+5 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=+5 Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=B2 Pin=J2-5
+Added Pin To Net: NetName=A2 Pin=J2-6
+Added Pin To Net: NetName=+5 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=+5 Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=B3 Pin=J3-5
+Added Pin To Net: NetName=A3 Pin=J3-6
+Added Pin To Net: NetName=+5 Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=+5 Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=B4 Pin=J4-5
+Added Pin To Net: NetName=A4 Pin=J4-6
+Added Pin To Net: NetName=+5 Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=+5 Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=B5 Pin=J5-5
+Added Pin To Net: NetName=A5 Pin=J5-6
+Added Pin To Net: NetName=+5 Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=+5 Pin=J6-3
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Pin To Net: NetName=B6 Pin=J6-5
+Added Pin To Net: NetName=A6 Pin=J6-6
+Added Pin To Net: NetName=GND Pin=J7-A1
+Added Pin To Net: NetName=GND Pin=J7-A12
+Added Pin To Net: NetName=GND Pin=J7-B1
+Added Pin To Net: NetName=+5 Pin=J7-B2
+Added Pin To Net: NetName=+5 Pin=J7-B3
+Added Pin To Net: NetName=+12 Pin=J7-B5
+Added Pin To Net: NetName=+12 Pin=J7-B8
+Added Pin To Net: NetName=NetIC 0_7 Pin=J7-B10
+Added Pin To Net: NetName=NetIC 0_6 Pin=J7-B11
+Added Pin To Net: NetName=GND Pin=J7-B12
+Added Pin To Net: NetName=GND Pin=J8-A1
+Added Pin To Net: NetName=GND Pin=J8-A12
+Added Pin To Net: NetName=GND Pin=J8-B1
+Added Pin To Net: NetName=+5 Pin=J8-B2
+Added Pin To Net: NetName=+5 Pin=J8-B3
+Added Pin To Net: NetName=+12 Pin=J8-B5
+Added Pin To Net: NetName=+12 Pin=J8-B8
+Added Pin To Net: NetName=NetIC 0_7 Pin=J8-B10
+Added Pin To Net: NetName=NetIC 0_6 Pin=J8-B11
+Added Pin To Net: NetName=GND Pin=J8-B12
+Added Pin To Net: NetName=NetIC 0_6 Pin=J9-1
+Added Pin To Net: NetName=NetIC 0_7 Pin=J9-2
+Added Pin To Net: NetName=GND Pin=J9-3
+Added Pin To Net: NetName=VCC Pin=J9-4
+Added Pin To Net: NetName=NetIC 0_6 Pin=J10-1
+Added Pin To Net: NetName=NetIC 0_7 Pin=J10-2
+Added Pin To Net: NetName=GND Pin=J11-1
+Added Pin To Net: NetName=RX1 Pin=J11-2
+Added Pin To Net: NetName=TX1 Pin=J11-3
+Added Pin To Net: NetName=NetIC 0_1 Pin=J11-5
+Added Pin To Net: NetName=NetIC 0_4 Pin=J11-6
+Added Pin To Net: NetName=NetJ11_7 Pin=J11-7
+Added Pin To Net: NetName=NetJ11_8 Pin=J11-8
+Added Pin To Net: NetName=B6 Pin=J11-9
+Added Pin To Net: NetName=A6 Pin=J11-10
+Added Pin To Net: NetName=PWM 2 Pin=J11-11
+Added Pin To Net: NetName=A1 Pin=J12-2
+Added Pin To Net: NetName=B1 Pin=J12-3
+Added Pin To Net: NetName=A2 Pin=J12-4
+Added Pin To Net: NetName=B2 Pin=J12-5
+Added Pin To Net: NetName=A3 Pin=J12-6
+Added Pin To Net: NetName=B3 Pin=J12-7
+Added Pin To Net: NetName=A4 Pin=J12-8
+Added Pin To Net: NetName=B4 Pin=J12-9
+Added Pin To Net: NetName=A5 Pin=J12-10
+Added Pin To Net: NetName=B5 Pin=J12-11
+Added Pin To Net: NetName=GND Pin=J12-13
+Added Pin To Net: NetName=VCC Pin=J12-14
+Added Pin To Net: NetName=NetJ11_7 Pin=R0-1
+Added Pin To Net: NetName=NetD0_1 Pin=R0-2
+Added Pin To Net: NetName=NetJ11_8 Pin=R1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Pin To Net: NetName=NetIC 0_8 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Member To Class: ClassName=SensorBoardSchematic Member=Component D0 LED1
+Added Member To Class: ClassName=SensorBoardSchematic Member=Component D1 LED1
+Added Member To Class: ClassName=SensorBoardSchematic Member=Component IC 0 MCP2551-I/P
+Added Member To Class: ClassName=Sensor Input Member=Component J0 SlimStack 503548-0622
+Added Member To Class: ClassName=Sensor Input Member=Component J1 SlimStack 503548-0622
+Added Member To Class: ClassName=Sensor Input Member=Component J2 SlimStack 503548-0622
+Added Member To Class: ClassName=Sensor Input Member=Component J3 SlimStack 503548-0622
+Added Member To Class: ClassName=Sensor Input Member=Component J4 SlimStack 503548-0622
+Added Member To Class: ClassName=Sensor Input Member=Component J5 SlimStack 503548-0622
+Added Member To Class: ClassName=Sensor Input Member=Component J6 SlimStack 503548-0622
+Added Member To Class: ClassName=SensorBoardSchematic Member=Component J7 USB C
+Added Member To Class: ClassName=SensorBoardSchematic Member=Component J8 USB C
+Added Member To Class: ClassName=SensorBoardSchematic Member=Component J9 282834-4
+Added Member To Class: ClassName=SensorBoardSchematic Member=Component J10 282834-2
+Added Member To Class: ClassName=SensorBoardSchematic Member=Component J11 Header 14
+Added Member To Class: ClassName=SensorBoardSchematic Member=Component J12 Header 14
+Added Member To Class: ClassName=SensorBoardSchematic Member=Component R0 Res1
+Added Member To Class: ClassName=SensorBoardSchematic Member=Component R1 Res1
+Added Member To Class: ClassName=SensorBoardSchematic Member=Component R2 Res1
+Added Room: Name=SensorBoardSchematic
+Added Room: Name=Sensor Input

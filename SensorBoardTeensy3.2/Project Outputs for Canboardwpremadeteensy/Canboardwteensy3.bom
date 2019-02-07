@@ -1,0 +1,12 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity,Manufacturer,Part Number,Price,Type
+
+"=Value","CAP CER 0.1UF 35V X7R 0402","C0, C1, C2, C3","CAP 0402/1005","C1005X7R1V104K050BB","4","TDK Corporation","C1005X7R1V104K050BB","0.0287","-"
+"=Value","CAP CER 4.7UF 16V X5R 1206","C4, C5, C6, C7","CAP 1206/3216 - 1.8MM","160R18X475KV4E","4","Johanson Dielectrics Inc.","160R18X475KV4E","0.1462",""
+"LED1","Typical RED GaAs LED","D0, D1","LED-1","LED1","2","","","",""
+"MCP2551-I/P","MCP2551 Series 5.5 V 1 Mb/s Surface Mount High-Speed CAN Transceiver - PDIP-8","IC 0","DIP254P762X432-8","MCP2551-I/P","1","","","None",""
+"SlimStack 503548-0622","","J0, J1, J2, J3, J4, J5, J6","SlimStack_503548-0622","SlimStack_503548-0622","7","","","",""
+"USB C","USB 3.1 TYPE C MID MOUNT HYBRID","J7, J8","TE USB-C 2129691-1","2129691-1","2","TE Connectivity AMP Connectors","2129691-1","2.2088","USB - C"
+"="Part Number"","TERM BLOCK 5POS SIDE ENT 2.54MM","J9","TE 282834-5","282834-5","1","TE Connectivity AMP Connectors","282834-5","3.99",""
+"="Part Number"","TERM BLOCK 2POS SIDE ENT 2.54MM","J10","TE 282834-2","282834-2","1","TE Connectivity AMP Connectors","282834-2","1.3",""
+"Header 14","Header, 14-Pin","J11, J12","HDR1X14","Header 14","2","","","",""
+"Res1","Resistor","R0, R1, R2","AXIAL-0.3","Res1","3","","","",""

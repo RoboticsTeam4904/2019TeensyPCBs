@@ -1,0 +1,35 @@
+Net Status Report
+Filename     : C:\Users\Public\Documents\Altium\SensorBoardTeensy3.2\Canboardwteensy3.2.PcbDoc
+Date         : 2/3/2019
+Time         : 11:42:24 AM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +12, Signal Layers Only, 6739.166mils
+    +5, Signal Layers Only, 10139.792mils
+    A1, Signal Layers Only, 200.859mils
+    A2, Signal Layers Only, 200.859mils
+    A3, Signal Layers Only, 200.859mils
+    A4, Signal Layers Only, 200.859mils
+    A5, Signal Layers Only, 200.859mils
+    A6, Signal Layers Only, 112.841mils
+    B1, Signal Layers Only, 199.097mils
+    B2, Signal Layers Only, 199.097mils
+    B3, Signal Layers Only, 199.097mils
+    B4, Signal Layers Only, 199.097mils
+    B5, Signal Layers Only, 199.097mils
+    B6, Signal Layers Only, 122.058mils
+    GND, Signal Layers Only, 2985.566mils
+    NetD0_1, Signal Layers Only, 164.614mils
+    NetD1_1, Signal Layers Only, 216.453mils
+    NetIC 0_1, Signal Layers Only, 1244.734mils
+    NetIC 0_4, Signal Layers Only, 1036.032mils
+    NetIC 0_6, Signal Layers Only, 6385.713mils
+    NetIC 0_7, Signal Layers Only, 7245.608mils
+    NetIC 0_8, Signal Layers Only, 115.992mils
+    NetJ11_7, Signal Layers Only, 130.414mils
+    NetJ11_8, Signal Layers Only, 130.414mils
+    PWM 2, Signal Layers Only, 1261.751mils
+    RX1, Signal Layers Only, 93.487mils
+    TX1, Signal Layers Only, 97.316mils
+count : 27
