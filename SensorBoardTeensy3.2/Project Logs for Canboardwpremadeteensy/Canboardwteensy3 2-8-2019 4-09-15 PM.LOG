@@ -1,0 +1,25 @@
+Added Component: Designator=IC0(SON65P300X300X95-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "NXP USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TJA1051TK/3/1J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VDFN-8 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TJA1051TK/3/1J/NXP%20USA%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC0-2
+Added Pin To Net: NetName=+5 Pin=IC0-3
+Added Pin To Net: NetName=NetJ7_B11 Pin=IC0-6
+Added Pin To Net: NetName=NetJ7_B10 Pin=IC0-7
+Change Net Name : Old Net Name=NetJ7_B10 New Net Name=NetIC0_7
+Change Net Name : Old Net Name=NetJ7_B11 New Net Name=NetIC0_6
+Added Pin To Net: NetName=NetIC0_1 Pin=IC0-1
+Added Pin To Net: NetName=NetIC0_1 Pin=J11-5
+Added Net: Name=NetIC0_1
+Added Pin To Net: NetName=NetIC0_4 Pin=IC0-4
+Added Pin To Net: NetName=NetIC0_4 Pin=J11-6
+Added Net: Name=NetIC0_4
+Added Pin To Net: NetName=NetIC0_8 Pin=IC0-8
+Added Pin To Net: NetName=NetIC0_8 Pin=R2-1
+Added Net: Name=NetIC0_8
+Added Member To Class: ClassName=SensorBoardSchematic Member=Component IC0 TJA1051TK/3/1J

@@ -1,0 +1,12 @@
+Quantity,Part Number,Designator,Supplier 1,Supplier Part Number 1,Description,Manufacturer
+
+"2","2129691-1","J7, J8","Digi-Key","A122008TR-ND","USB 3.1 TYPE C MID MOUNT HYBRID","TE Connectivity AMP Connectors"
+"1","282834-5","J9","Digi-Key","A98336-ND","TERM BLOCK 5POS SIDE ENT 2.54MM","TE Connectivity AMP Connectors"
+"1","282834-2","J10","Digi-Key","A98333-ND","TERM BLOCK 2POS SIDE ENT 2.54MM","TE Connectivity AMP Connectors"
+"4","160R18X475KV4E","C4, C5, C6, C7","Digi-Key","709-1234-2-ND","CAP CER 4.7UF 16V X5R 1206","Johanson Dielectrics Inc."
+"4","C1005X7R1V104K050BB","C0, C1, C2, C3","Digi-Key","445-7344-2-ND","CAP CER 0.1UF 35V X7R 0402","TDK Corporation"
+"2","","J11, J12","","","Header, 14-Pin",""
+"2","","D0, D1","","","Typical RED GaAs LED",""
+"1","","IC 0","","","MCP2551 Series 5.5 V 1 Mb/s Surface Mount High-Speed CAN Transceiver - PDIP-8",""
+"3","","R0, R1, R2","","","Resistor",""
+"7","","J0, J1, J2, J3, J4, J5, J6","","","",""

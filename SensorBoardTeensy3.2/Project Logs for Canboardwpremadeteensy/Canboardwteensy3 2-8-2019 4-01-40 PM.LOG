@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+5 Pin=IC 0-3
+Removed Pin From Net: NetName=NetIC 0_6 Pin=IC 0-6
+Removed Pin From Net: NetName=NetIC 0_7 Pin=IC 0-7
+Removed Member From Class: ClassName=SensorBoardSchematic Member=IC 0
+Change Net Name : Old Net Name=NetIC 0_6 New Net Name=NetJ7_B11
+Change Net Name : Old Net Name=NetIC 0_7 New Net Name=NetJ7_B10
+Added Pin To Net: NetName=NetJ11_5 Pin=J11-5
+Added Net: Name=NetJ11_5
+Added Pin To Net: NetName=NetJ11_6 Pin=J11-6
+Added Net: Name=NetJ11_6
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Net: Name=NetR2_1
