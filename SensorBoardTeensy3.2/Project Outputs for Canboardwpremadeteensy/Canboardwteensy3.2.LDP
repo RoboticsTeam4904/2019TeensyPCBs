@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\2019TeensyPCBs\SensorBoardTeensy3.2\Canboardwteensy3.2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=canboardwteensy3.2-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=canboardwteensy3.2-slotholes.txt|DrillLayers=gtl,gbl
