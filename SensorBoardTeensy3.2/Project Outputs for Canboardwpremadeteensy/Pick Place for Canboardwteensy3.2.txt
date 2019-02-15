@@ -1,0 +1,40 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\2019TeensyPCBs\SensorBoardTeensy3.2\Project Outputs for Canboardwpremadeteensy\Pick Place for Canboardwteensy3.2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       10/02/19
+Time:       11:28
+Revision:   40a392b8e5828439e142668be03b21e731e19ba3
+Variant:    No variations
+Units used: mil
+
+Designator Center-X(mil) Center-Y(mil) Layer    Rotation 
+IC0        4510.000      4000.000      TopLayer 270      
+C7         3843.347      2260.000      TopLayer 270      
+C6         3780.000      3590.000      TopLayer 90       
+C5         3890.000      3590.000      TopLayer 90       
+C4         3971.299      2260.000      TopLayer 270      
+C3         3740.000      2210.000      TopLayer 270      
+C2         3670.000      3590.000      TopLayer 90       
+C1         4000.000      3590.000      TopLayer 90       
+C0         4060.000      2230.000      TopLayer 270      
+D1         3822.441      2741.496      TopLayer 270      
+R2         4990.000      4099.032      TopLayer 360      
+R1         3920.000      2880.000      TopLayer 180      
+R0         3920.000      2980.000      TopLayer 180      
+J12        4800.000      2927.953      TopLayer 90       
+J11        4200.000      2929.000      TopLayer 270      
+J10        5010.000      1927.000      TopLayer 180      
+J9         4572.000      1927.000      TopLayer 180      
+J8         3912.244      1976.575      TopLayer 180      
+J7         3912.244      3913.425      TopLayer 360      
+J6         4051.772      2725.748      TopLayer 90       
+J5         5031.181      3223.228      TopLayer 270      
+J4         5031.181      3023.228      TopLayer 270      
+J3         5031.181      2823.228      TopLayer 270      
+J2         5031.181      2623.228      TopLayer 270      
+J1         5031.181      2423.228      TopLayer 270      
+J0         4073.819      3425.748      TopLayer 90       
+D0         3820.000      3144.614      TopLayer 90       
